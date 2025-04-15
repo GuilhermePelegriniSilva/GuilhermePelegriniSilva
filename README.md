@@ -5,7 +5,7 @@
   <p style="margin: 20px 0; font-size: 1rem; font-style: italic;">“Desenvolvendo soluções tecnológicas com criatividade e eficiência.”</p>
   
   <div style="margin-top: 20px;">
-    <a href="https://www.linkedin.com/in/guilherme-pelegrini-da-silva-b77a042b5/" target="_blank" style="text-decoration: none; color: white; background: #0A66C2; padding: 10px 20px; border-radius: 5px; font-size: 1rem;">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/guilherme-pelegrini-da-silva-b77a042b5/" target="_blank" style="text-decoration: none; color: white; background: #0A66C2; padding: 10px 20px; border-radius: 5px; font-size: 1rem;"></a>
   </div>
 </div>
   
