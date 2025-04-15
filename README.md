@@ -6,7 +6,7 @@
 
   <p align="center">
     <a href="https://www.linkedin.com/in/guilherme-pelegrini-da-silva-b77a042b5/" target="_blank">
-      <img src="https://avatars.githubusercontent.com/u/206854096?v=4" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
   </p>
 </div>
