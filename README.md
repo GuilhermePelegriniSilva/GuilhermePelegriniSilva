@@ -42,21 +42,21 @@
 ### 🌳 **Árvore de Habilidades (JavaScript)**
 Criação de uma árvore de habilidades interativa utilizando JavaScript para manipulação de DOM e exibição hierárquica.  
 **Destaques:** Organização de competências e design dinâmico.  
-[🔗 Acesse o projeto aqui](#) <!-- Substitua o "#" pelo link do repositório -->
+[🔗 Acesse o projeto aqui](https://github.com/GuilhermePelegriniSilva/MyRepository/tree/main/arvoredehabilidades)
 
 ---
 
 ### 🧮 **Calculadora (JavaScript)**
 Uma calculadora funcional desenvolvida em JavaScript, projetada para oferecer operações matemáticas eficientes com uma interface amigável.  
 **Destaques:** Cálculos precisos e lógica bem estruturada.  
-[🔗 Acesse o projeto aqui](#) <!-- Substitua o "#" pelo link do repositório -->
+[🔗 Acesse o projeto aqui](https://github.com/GuilhermePelegriniSilva/MyRepository/tree/main/calculadorajurosjs)
 
 ---
 
 ### 📄 **Gerador de Relatórios (Python)**
 Automatização de relatórios em PDF utilizando Python e bibliotecas populares como FPDF.  
 **Destaques:** Automação de tarefas e formatação profissional de documentos.  
-[🔗 Acesse o projeto aqui](#) <!-- Substitua o "#" pelo link do repositório -->
+[🔗 Acesse o projeto aqui](https://github.com/GuilhermePelegriniSilva/MyRepository/tree/main/relatoriopython)
 
 ---
 
