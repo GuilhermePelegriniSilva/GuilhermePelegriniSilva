@@ -69,6 +69,6 @@ Automatização de relatórios em PDF utilizando Python e bibliotecas populares 
 ---
 
 <div align="center">
-  <h2>💻 Vamos Colaborar? Entre em Contato!</h2>
+  <h2>💻 Vamos Colaborar? Entre em Contato, Estou em busca de Estágios e emprego em Desenvolvimento!</h2>
   <p>Estou sempre aberto para trocar ideias e colaborar em projetos inovadores!</p>
 </div>
