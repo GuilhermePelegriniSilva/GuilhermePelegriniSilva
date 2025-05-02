@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Bem-vindo ao meu perfil no GitHub! 🚀💻👋</h1>
+  <h1>Bem-vindo ao meu perfil no GitHub! 🐱🚀💻👋</h1>
   <p>Sou <strong>Guilherme Pelegrini da Silva</strong>, apaixonado por tecnologia, desenvolvimento de software e aprendizado contínuo.</p>
   
   <p style="margin: 20px 0; font-size: 1rem; font-style: italic;">“Desenvolvendo soluções tecnológicas com criatividade e eficiência.”</p>
